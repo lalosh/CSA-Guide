@@ -1,16 +1,17 @@
 # CSA-Guide
-Cloud Service Agreement Guide
+## Practical Guide to Cloud Service Agreements
 
-Practical Guide to Cloud Service Agreements
-
-CSA(Cloud Service Agreements)(which include SLA)
 CSA: is an Agreements between cloud customer(buyer) and Cloud provider(seller)
+CSA(Cloud Service Agreements)(include SLA)
 
 Note: CSA is different for IaaS,PaaS,SaaS.
 
 CSA is composed of(not mandatory):
+
     1-customer Agreement
+
     2-Acceptable User Policy(AUP)
+
     3-Service Level Agreement(SLA)
 
 customer Agreement:
